@@ -1,62 +1,48 @@
-# Hi there, I'm Anton 👋 
-### Product Security & Application Security Engineer | Ex-Frontend Dev
+# Hi there, I'm Anton 👋
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### Application Security & Product Security Engineer
+📍 Olsztyn, Poland (Open to relocation)
 
 ---
 
-## 🛡️ About Me
-An Application Security Engineer with a strong commercial background in **React/TypeScript** frontend development. I bridge the gap between secure development and vulnerability assessment. I build automated security tools, perform secure code reviews, and integrate security practices into the early stages of the SDLC.
+## 🛡️ Professional Summary
+An Application Security Engineer with 14 months of commercial frontend development experience (React/TypeScript). I bridge the gap between secure development and vulnerability assessment by combining a deep understanding of client-side architecture with hands-on security practices.
 
-- 🎯 **Current Focus:** Dynamic Application Security Testing (DAST), automated fuzzing, and API security.
+- 🎯 **Current Focus:** Secure SDLC (S-SDLC), Dynamic Application Security Testing (DAST), and automated API fuzzing.
 - 🎓 **Certifications:** eJPT (In Progress), Security Engineer.
-- 💬 **Ask me about:** OWASP Top 10, React security architecture, secure dependency management.
+- 💬 **Ask me about:** OWASP Top 10, secure code review, and automating web security tasks.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🔒 Security Testing & Methodologies
-![Burp Suite](https://shields.io) ![OWASP](https://shields.io) ![Threat Modeling](https://shields.io) ![Code Review](https://shields.io)
+### 🔒 Security & Methodologies
+- **Dynamic Testing:** Burp Suite (Proxy, Repeater, Intruder)
+- **Methodologies:** OWASP Top 10, Secure Code Review, Threat Modeling
+- **Assessment:** API Security Testing, Vulnerability Reporting (CVSS)
 
 ### 💻 Development & Automation
-![Python](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Bash](https://shields.io) ![Git](https://shields.io)
+- **Languages:** Python (scripting & automation), TypeScript, JavaScript, Bash
+- **Frameworks & Core:** React, Node.js architecture awareness, REST APIs, Git
 
 ---
 
 ## 🚀 Featured Security Projects
-* 🛠️ **[Automated Security Fuzzer](ссылка_на_ваш_репозиторий)** — Custom Python scripts for IDOR detection and automated API fuzzing.
-* 📦 **[React Component Security Analyzer](ссылка_на_ваш_репозиторий)** — A lightweight AST utility to scan frontend code for configuration flaws and XSS risks.
 
----
+### 🔹 Automated Security Fuzzer & Tooling
+*Developed custom Python scripts to automate IDOR vulnerability detection by fuzzing user IDs and parameters. Integrated automated payloads with Burp Suite for streamlined REST API security testing.*
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Anton's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
+### 🔹 React Component Security Analyzer
+*Programmed a lightweight static analysis utility to scan React frontend components for configuration flaws, missing validation patterns, and client-side XSS risks.*
+
+### 🔹 Automated Vulnerability Reporting Engine
+*Built a Python-based documentation tool that generates professional security assessment reports with automated CVSS scoring calculations and clear remediation guidance.*
 
 ---
 
 ## 📨 Connect with me
-[![Telegram](https://shields.io)](https://t.me/rojunot)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/anton-petukh/)
-[![Email](https://shields.io)](mailto:antonnikulich.petukh@gmail.com)
 
-<!--
-**Anton162/Anton162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Telegram:** @rojunot
+- **Email:** antonnikulich.petukh@gmail.com
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/anton-petukh/)
+- **TryHackMe** [://tryhackme.com](https://tryhackme.com/p/shop.solar.happy)
