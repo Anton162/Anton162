@@ -20,21 +20,11 @@ An Application Security Engineer with a strong commercial background in **React/
 ## 🛠️ Tech Stack & Tools
 
 ### 🔒 Security Testing & Methodologies
-<p align="left">
-  <img src="https://shields.io" alt="Burp Suite" />
-  <img src="https://shields.io" alt="OWASP" />
-  <img src="https://shields.io" alt="Threat Modeling" />
-  <img src="https://shields.io" alt="Code Review" />
-</p>
+![Burp Suite](https://shields.io) ![OWASP](https://shields.io) ![Threat Modeling](https://shields.io) ![Code Review](https://shields.io)
 
 ### 💻 Development & Automation
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Bash" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+![Python](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Bash](https://shields.io) ![Git](https://shields.io)
+
 ---
 
 ## 🚀 Featured Security Projects
