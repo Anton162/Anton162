@@ -38,6 +38,9 @@ An Application Security Engineer with 14 months of commercial frontend developme
 ### 🔹 Automated Vulnerability Reporting Engine
 *Built a Python-based documentation tool that generates professional security assessment reports with automated CVSS scoring calculations and clear remediation guidance.*
 
+### 🔹 Automated DAST Pipeline (Playwright & OWASP ZAP)
+*Engineered an automated end-to-end Dynamic Application Security Testing (DAST) pipeline for Single Page Applications (SPAs). Programmed Playwright scripts to simulate authenticated user sessions, bypass dynamic front-end banners, and route browser traffic through an OWASP ZAP proxy for automated web vulnerability scanning and compliance report generation.*
+
 ---
 
 ## 📨 Connect with me
