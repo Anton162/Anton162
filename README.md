@@ -1,6 +1,6 @@
 markdown
 # Hi there, I'm Anton Petukh 👋
-### **Application Security Engineer | Vulnerability Management | DevSecOps**
+### **Application Security Engineer | Product Security | Web & API Penetration Testing**
 
 <p align="left">
   <strong>📍 Olsztyn, Poland</strong> (Open to Remote & Relocation in Europe) <br>
