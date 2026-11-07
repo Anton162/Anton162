@@ -49,23 +49,18 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 
 ## 🚀 Cybersecurity Projects
 
-### 🔹 [Automated DAST Pipeline](https://github.com)
+### 🔹 [Automated DAST Pipeline](https://github.com/Anton162/web-pentest-notes/tree/main/scripts/automated-dast-playwright-zap/automated-dast-playwright-zap)
 *Playwright | OWASP ZAP | GitHub Actions*
 *   Built an automated DAST workflow for a Single Page Application (OWASP Juice Shop) wired into a CI/CD pipeline.
 *   Automated authenticated browser sessions and traffic capture through an OWASP ZAP proxy.
 *   Implemented automated crawling, vulnerability scanning, and report generation.
 
-### 🔹 [Automated Vulnerability Reporting Tool](https://github.com)
-*Python | CVSS*
-*   Built a Python tool that generates structured vulnerability reports from scan findings.
-*   Automated CVSS scoring and drafting of remediation recommendations (self-built report/recommend/track loop).
-
-### 🔹 [Security Fuzzer & Automation Tools](https://github.com/web-pentest-notes/tree/main/scripts)
+### 🔹 [Security Fuzzer & Automation Tools](https://github.com/Anton162/web-pentest-notes/tree/main/scripts/idor_and_fuzz)
 *Python | Burp Suite*
 *   Developed custom Python scripts for automated parameter fuzzing and IDOR testing.
 *   Built tooling to analyze HTTP responses, flag authorization issues, and perform JWT/auth-mechanism verification.
 
-### 🔹 [React Component Security Analyzer](https://github.com)
+### 🔹 [React Component Security Analyzer](https://github.com/web-pentest-notes/tree/main/scripts/frontend_ast_scanner)
 *React | Static Analysis (AST)*
 *   Built an AST-based static analysis tool (SAST) to review React components for security defects.
 *   Automated the detection of insecure configurations, missing validation, and risky client-side patterns.
