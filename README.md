@@ -1,34 +1,34 @@
 markdown
-# Hi there, I'm Anton Petukh 👋
+# Hi there, I'm Anton Petukh 
 ### **Application Security Engineer | Product Security | Web & API Penetration Testing**
 
 <p align="left">
-  <strong>📍 Poland</strong> (Open to Remote & Relocation in Europe) <br>
-  <strong>🗣️ Languages:</strong> Russian (Native) • English (Intermediate, actively improving) • Polish (Conversational)
+  <strong> Poland</strong> (Open to Remote & Relocation in Europe) <br>
+  <strong> Languages:</strong> Russian (Native) • English (Intermediate, actively improving) • Polish (Conversational)
 </p>
 
 ---
 
-## 🛡️ Professional Profile
+##  Professional Profile
 Application Security Engineer transitioning from a commercial Frontend Development background into hands-on vulnerability detection and remediation work. Comfortable running and interpreting SAST/DAST/SCA results, mapping findings to OWASP Top 10 and CVSS severity, and translating them into clear, actionable reports for development teams. 
 
 My practical experience with Secure SDLC, Secure Code Review, and basic Threat Modeling is built through self-directed labs, CTF-style exercises, and portfolio projects. Background in React/TypeScript and REST API integration gives me direct insight into how developers build and ship code — allowing me to effectively coordinate remediation with engineering teams rather than just flagging issues.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Technologies, Tools & Methodologies |
 | :--- | :--- |
-| **🔒 Application Security** | `OWASP Top 10` • `SAST/DAST/SCA fundamentals` • `Secure SDLC` • `Vulnerability Assessment & Prioritization` • `Secure Code Review` • `Threat Modeling basics` • `API Security` |
-| **⚙️ Security Tools** | `Burp Suite` • `OWASP ZAP` • `Postman` • `Playwright` • `Nmap` • `ffuf` • `gobuster` |
-| **📊 Vulnerability Intelligence** | `CVSS scoring` • `CVE/NVD` • `OWASP feeds` • `Remediation recommendation reporting` |
-| **💻 Development & Automation** | `Python` • `JavaScript` • `TypeScript` • `React` • `REST API` • `Bash` • `Git` • `CI/CD (GitHub Actions)` |
-| **🌐 Infrastructure (Basic)** | `Active Directory security concepts (introductory level)` |
+| ** Application Security** | `OWASP Top 10` • `SAST/DAST/SCA fundamentals` • `Secure SDLC` • `Vulnerability Assessment & Prioritization` • `Secure Code Review` • `Threat Modeling basics` • `API Security` |
+| ** Security Tools** | `Burp Suite` • `OWASP ZAP` • `Postman` • `Playwright` • `Nmap` • `ffuf` • `gobuster` |
+| ** Vulnerability Intelligence** | `CVSS scoring` • `CVE/NVD` • `OWASP feeds` • `Remediation recommendation reporting` |
+| ** Development & Automation** | `Python` • `JavaScript` • `TypeScript` • `React` • `REST API` • `Bash` • `Git` • `CI/CD (GitHub Actions)` |
+| ** Infrastructure (Basic)** | `Active Directory security concepts (introductory level)` |
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### **Web Application Security Assessment** 
 *December 2024 — Present | Remote*
@@ -47,7 +47,7 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 
 ---
 
-## 🚀 Cybersecurity Projects
+##  Cybersecurity Projects
 
 ### 🔹 [Automated DAST Pipeline](https://github.com/Anton162/web-pentest-notes/tree/main/scripts/automated-dast-playwright-zap/automated-dast-playwright-zap)
 *Playwright | OWASP ZAP | GitHub Actions*
@@ -67,7 +67,7 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 *   **eJPT** (eLearnSecurity Junior Penetration Tester) — *In progress*
 *   **Security+ Engineer Certification** — Advanced Security Engineering Training Program *(Brunovski IT Education Center)*
 *   **TryHackMe** — Continuous hands-on labs in Web Security, Code Analysis, and Infrastructure Security
@@ -75,7 +75,7 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/rojunot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-petukh/)
