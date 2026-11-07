@@ -12,7 +12,7 @@ markdown
 ##  Professional Profile
 Application Security Engineer transitioning from a commercial Frontend Development background into hands-on vulnerability detection and remediation work. Comfortable running and interpreting SAST/DAST/SCA results, mapping findings to OWASP Top 10 and CVSS severity, and translating them into clear, actionable reports for development teams. 
 
-My practical experience with Secure SDLC, Secure Code Review, and basic Threat Modeling is built through self-directed labs, CTF-style exercises, and portfolio projects. Background in React/TypeScript and REST API integration gives me direct insight into how developers build and ship code — allowing me to effectively coordinate remediation with engineering teams rather than just flagging issues.
+My practical experience with Secure SDLC, Secure Code Review, and basic Threat Modeling is built through self-directed labs, CTF-style exercises, and portfolio projects. Background in React/TypeScript and REST API integration gives me direct insight into how developers build and ship code - allowing me to effectively coordinate remediation with engineering teams rather than just flagging issues.
 
 ---
 
@@ -31,15 +31,15 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 ##  Work Experience
 
 ### **Web Application Security Assessment** 
-*December 2024 — Present | Remote*
+*December 2024 - Present | Remote*
 *   **Hands-on Testing:** Run security testing of web applications and APIs using Burp Suite, OWASP ZAP, Postman, and custom Python tooling.
 *   **Vulnerability Analysis:** Identify and analyze OWASP Top 10 vulnerabilities (XSS, IDOR, authentication, and access-control issues) and score them via CVSS.
 *   **Reporting Discipline:** Produce vulnerability write-ups with remediation recommendations designed for seamless dev-team handoff.
 *   **Code & Architecture Audit:** Apply Secure Code Review and basic Threat Modeling focused on authentication flows, session management, and access control.
-*   **DevSecOps Automation:** Build security automation into CI/CD (GitHub Actions) — implementing DAST-side equivalents of pipeline integration.
+*   **DevSecOps Automation:** Build security automation into CI/CD (GitHub Actions) - implementing DAST-side equivalents of pipeline integration.
 
 ### **Frontend Developer** | *Alcott*
-*May 2023 — July 2024 | Remote*
+*May 2023 - July 2024 | Remote*
 *   **Engineering Core:** Built and maintained React/TypeScript components for recruitment platforms, managing data flows across 10+ dashboard pages.
 *   **Cross-Team Collaboration:** Integrated frontend apps with REST APIs and coordinated directly with backend developers and architects to resolve technical challenges.
 *   **Defensive Coding:** Worked on input validation and secure handling of user data within client-side components.
@@ -70,8 +70,8 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 ##  Education & Certifications
 *   **eJPT** (eLearnSecurity Junior Penetration Tester) — *In progress*
 *   **Security+ Engineer Certification** — Advanced Security Engineering Training Program *(Brunovski IT Education Center)*
-*   **TryHackMe** — Continuous hands-on labs in Web Security, Code Analysis, and Infrastructure Security
-*   **OWASP WSTG** — Deep self-study, actively used to map findings to a structured testing checklist
+*   **TryHackMe** - Continuous hands-on labs in Web Security, Code Analysis, and Infrastructure Security
+*   **OWASP WSTG** - Deep self-study, actively used to map findings to a structured testing checklist
 
 ---
 
