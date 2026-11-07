@@ -3,7 +3,7 @@ markdown
 ### **Application Security Engineer | Product Security | Web & API Penetration Testing**
 
 <p align="left">
-  <strong>📍 Olsztyn, Poland</strong> (Open to Remote & Relocation in Europe) <br>
+  <strong>📍 Poland</strong> (Open to Remote & Relocation in Europe) <br>
   <strong>🗣️ Languages:</strong> Russian (Native) • English (Intermediate, actively improving) • Polish (Conversational)
 </p>
 
