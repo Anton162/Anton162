@@ -1,65 +1,57 @@
 # Hi there, I'm Anton 👋
-### Application Security Engineer | Web & API Security
+### **Application Security Engineer | Web & API Security**
 
-📍 Olsztyn, Poland (open to remote & relocation in Europe)
+<p align="left">
+  <img src="https://shields.io" alt="Location">
+  <img src="https://shields.io" alt="Status">
+</p>
 
 ---
 
 ## 🛡️ Professional Profile
+Application Security Engineer with commercial experience in Frontend Development and hands-on training in cybersecurity. I specialize in web application security, vulnerability research and analysis, API testing, and security-task automation. 
 
-Application Security Engineer with commercial experience in Frontend Development and hands-on training in cybersecurity. I specialize in web application security, vulnerability research and analysis, API testing, and security-task automation, with a solid understanding of modern web application architecture — how frontend, backend, and distributed services (REST APIs, microservice integration) fit together — plus React/TypeScript and the core OWASP Top 10 vulnerability classes.
+Deep understanding of modern web architecture (React/TypeScript, REST APIs, microservices) combined with practical knowledge of the OWASP Top 10 and secure code review practices.
 
-In practice I work with Burp Suite, OWASP ZAP, Python, DAST, API Security, and Secure Code Review through my own projects, home lab, and hands-on security labs, including building security automation into CI/CD (GitHub Actions).
-
-**Key highlights:**
-- 🔓 Discovered a **business-logic vulnerability** in a production booking API that allowed reducing reservation cost to zero
-- 🔑 Identified an **IDOR vulnerability** exposing other users' rental records via object-ID manipulation
-- ⚙️ Designed and built an **automated DAST pipeline** (Playwright + OWASP ZAP) integrated into CI/CD for SPA security scanning
-
-- 🎯 **Current focus:** Secure SDLC, Dynamic Application Security Testing (DAST), automated API fuzzing
-- 🎓 **Certifications / training:** eJPT (eLearnSecurity Junior Penetration Tester) — in progress · Advanced Security Engineering Training Program, Brunovski IT Education Center
-- 💬 **Ask me about:** OWASP Top 10, secure code review, IDOR/business-logic testing, automating web security tasks
+### 🎯 Core Highlights & Achievements
+*   🔓 **Business-Logic Vulnerability:** Discovered a flaw in a production booking API that allowed reducing reservation cost to zero.
+*   🔑 **IDOR Vulnerability:** Identified object-ID manipulation bugs exposing other users' rental records.
+*   ⚙️ **Security Automation:** Designed and built an automated DAST pipeline (Playwright + OWASP ZAP) integrated into GitHub Actions CI/CD.
+*   🎓 **Certifications:** eJPT *(In Progress)* | Advanced Security Engineering Program *(Brunovski IT)*.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**🔒 Security & Methodologies**
-- Dynamic testing: Burp Suite (Proxy, Repeater, Intruder), OWASP ZAP
-- Methodology: PTES, OWASP Web Security Testing Guide (WSTG), MITRE ATT&CK, Threat Modeling
-- Assessment: API Security Testing, Secure Code Review, Vulnerability Reporting (CVSS)
-
-**💻 Development & Automation**
-- Languages: Python (scripting & automation), TypeScript, JavaScript, Bash
-- Frameworks & core: React, REST APIs, secure Fetch API / Axios integration (credential handling, CORS), Node.js architecture awareness, Git, CI/CD (GitHub Actions)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **🔒 Security & Testing** | ![Burp Suite](https://shields.io) ![OWASP ZAP](https://shields.io) `WSTG` `PTES` `Threat Modeling` `CVSS` |
+| **💻 Dev & Automation** | ![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Bash](https://shields.io) |
+| **🌐 Frameworks & CI/CD** | ![React](https://shields.io) ![Node.js](https://shields.io) ![GitHub Actions](https://shields.io) |
 
 ---
 
 ## 🚀 Featured Security Projects
 
-### 🔹 Automated DAST Pipeline
-`Playwright` `OWASP ZAP` `GitHub Actions`
-Automated end-to-end DAST pipeline for Single Page Applications. Playwright scripts drive authenticated user sessions and route browser traffic through an OWASP ZAP proxy for automated crawling, vulnerability scanning, and report generation — wired into CI/CD.
+### 🔹 [Automated DAST Pipeline](https://github.com)
+Automated end-to-end DAST pipeline for Single Page Applications (SPAs). Playwright scripts drive authenticated user sessions and route browser traffic through an OWASP ZAP proxy for automated crawling, vulnerability scanning, and report generation — wired directly into CI/CD.
+*Tags: `Playwright` `OWASP ZAP` `GitHub Actions` `CI/CD`*
 
-### 🔹 Security Fuzzer & Automation Tools
-`Python` `Burp Suite`
-Python scripts for automated parameter fuzzing and IDOR detection, HTTP response analysis for authorization issues, and JWT testing / auth-mechanism verification.
+### 🔹 [Security Fuzzer & Automation Tools](https://github.com)
+Custom Python scripts developed for automated parameter fuzzing, IDOR detection, HTTP response analysis for authorization bypasses, and JWT testing / auth-mechanism verification.
+*Tags: `Python` `Burp Suite API` `Automation`*
 
-### 🔹 React Component Security Analyzer
-`React` `Static Analysis (AST)`
-AST-based static analysis tool that scans React components for insecure configurations, missing validation, and potential client-side XSS risks.
+### 🔹 [React Component Security Analyzer](https://github.com) *(Replace with direct link if public)*
+AST-based static analysis tool (SAST) that scans React components for insecure configurations, missing validation, and client-side XSS risks.
+*Tags: `React` `AST` `Static Analysis` `Code Review`*
 
-### 🔹 Automated Vulnerability Reporting Tool
-`Python` `CVSS`
-Generates structured, professional vulnerability reports with automated CVSS scoring and remediation guidance.
-
-### 🔹 Python Security Toolkit
-`Python`
-A seven-tool toolkit for recon and baseline assessment: port scanner, HTTP security-headers checker, SSL/TLS inspector, directory brute-forcer, subdomain enumerator, host discovery, and password auditor.
+### 🔹 [Web Pentest Notes & Reports](https://github.com/web-pentest-notes)
+My structured application security knowledge base containing vulnerability research, custom payloads, and detailed technical writeups from real-world assessments and premium labs.
+*Tags: `API Security` `OWASP Top 10` `Writeups`*
 
 ---
 
-## 📫 Get in touch
+## 📫 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/rojunot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-petukh/)
