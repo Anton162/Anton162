@@ -1,5 +1,5 @@
 markdown
-# Hi there, I'm Anton Petukh 
+# Hi there, I'm Anton 
 ### **Application Security Engineer | Product Security | Web & API Penetration Testing**
 
 <p align="left">
