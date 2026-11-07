@@ -68,8 +68,8 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 ---
 
 ##  Education & Certifications
-*   **eJPT** (eLearnSecurity Junior Penetration Tester) — *In progress*
-*   **Security+ Engineer Certification** — Advanced Security Engineering Training Program *(Brunovski IT Education Center)*
+*   **eJPT** (eLearnSecurity Junior Penetration Tester) - *In progress*
+*   **Security+ Engineer Certification** - Advanced Security Engineering Training Program *(Brunovski IT Education Center)*
 *   **TryHackMe** - Continuous hands-on labs in Web Security, Code Analysis, and Infrastructure Security
 *   **OWASP WSTG** - Deep self-study, actively used to map findings to a structured testing checklist
 
