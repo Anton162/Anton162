@@ -1,53 +1,82 @@
-# Hi there, I'm Anton 👋
-### **Application Security Engineer | Web & API Security**
+markdown
+# Hi there, I'm Anton Petukh 👋
+### **Application Security Engineer | Vulnerability Management | DevSecOps**
 
 <p align="left">
-  <img src="https://shields.io" alt="Location">
-  <img src="https://shields.io" alt="Status">
+  <strong>📍 Olsztyn, Poland</strong> (Open to Remote & Relocation in Europe) <br>
+  <strong>🗣️ Languages:</strong> Russian (Native) • English (Intermediate, actively improving) • Polish (Conversational)
 </p>
 
 ---
 
 ## 🛡️ Professional Profile
-Application Security Engineer with commercial experience in Frontend Development and hands-on training in cybersecurity. I specialize in web application security, vulnerability research and analysis, API testing, and security-task automation. 
+Application Security Engineer transitioning from a commercial Frontend Development background into hands-on vulnerability detection and remediation work. Comfortable running and interpreting SAST/DAST/SCA results, mapping findings to OWASP Top 10 and CVSS severity, and translating them into clear, actionable reports for development teams. 
 
-Deep understanding of modern web architecture (React/TypeScript, REST APIs, microservices) combined with practical knowledge of the OWASP Top 10 and secure code review practices.
-
-### 🎯 Core Highlights & Achievements
-*   🔓 **Business-Logic Vulnerability:** Discovered a flaw in a production booking API that allowed reducing reservation cost to zero.
-*   🔑 **IDOR Vulnerability:** Identified object-ID manipulation bugs exposing other users' rental records.
-*   ⚙️ **Security Automation:** Designed and built an automated DAST pipeline (Playwright + OWASP ZAP) integrated into GitHub Actions CI/CD.
-*   🎓 **Certifications:** eJPT *(In Progress)* | Advanced Security Engineering Program *(Brunovski IT)*.
+My practical experience with Secure SDLC, Secure Code Review, and basic Threat Modeling is built through self-directed labs, CTF-style exercises, and portfolio projects. Background in React/TypeScript and REST API integration gives me direct insight into how developers build and ship code — allowing me to effectively coordinate remediation with engineering teams rather than just flagging issues.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Technologies, Tools & Methodologies |
 | :--- | :--- |
-| **🔒 Security & Testing** | `Burp Suite` • `OWASP ZAP` • `WSTG` • `PTES` • `Threat Modeling` • `CVSS` |
-| **💻 Dev & Automation** | `Python` • `TypeScript` • `JavaScript` • `Bash` • `Git` |
-| **🌐 Frameworks & CI/CD** | `React` • `Node.js` • `GitHub Actions (CI/CD)` |
+| **🔒 Application Security** | `OWASP Top 10` • `SAST/DAST/SCA fundamentals` • `Secure SDLC` • `Vulnerability Assessment & Prioritization` • `Secure Code Review` • `Threat Modeling basics` • `API Security` |
+| **⚙️ Security Tools** | `Burp Suite` • `OWASP ZAP` • `Postman` • `Playwright` • `Nmap` • `ffuf` • `gobuster` |
+| **📊 Vulnerability Intelligence** | `CVSS scoring` • `CVE/NVD` • `OWASP feeds` • `Remediation recommendation reporting` |
+| **💻 Development & Automation** | `Python` • `JavaScript` • `TypeScript` • `React` • `REST API` • `Bash` • `Git` • `CI/CD (GitHub Actions)` |
+| **🌐 Infrastructure (Basic)** | `Active Directory security concepts (introductory level)` |
 
 ---
 
-## 🚀 Featured Security Projects
+## 💼 Work Experience
+
+### **Web Application Security Assessment** 
+*December 2024 — Present | Remote*
+*   **Hands-on Testing:** Run security testing of web applications and APIs using Burp Suite, OWASP ZAP, Postman, and custom Python tooling.
+*   **Vulnerability Analysis:** Identify and analyze OWASP Top 10 vulnerabilities (XSS, IDOR, authentication, and access-control issues) and score them via CVSS.
+*   **Reporting Discipline:** Produce vulnerability write-ups with remediation recommendations designed for seamless dev-team handoff.
+*   **Code & Architecture Audit:** Apply Secure Code Review and basic Threat Modeling focused on authentication flows, session management, and access control.
+*   **DevSecOps Automation:** Build security automation into CI/CD (GitHub Actions) — implementing DAST-side equivalents of pipeline integration.
+
+### **Frontend Developer** | *Alcott*
+*May 2023 — July 2024 | Remote*
+*   **Engineering Core:** Built and maintained React/TypeScript components for recruitment platforms, managing data flows across 10+ dashboard pages.
+*   **Cross-Team Collaboration:** Integrated frontend apps with REST APIs and coordinated directly with backend developers and architects to resolve technical challenges.
+*   **Defensive Coding:** Worked on input validation and secure handling of user data within client-side components.
+*   **Code Quality:** Participated in regular code reviews and dependency management, building a deep understanding of the client-side attack surface.
+
+---
+
+## 🚀 Cybersecurity Projects
 
 ### 🔹 [Automated DAST Pipeline](https://github.com)
-Automated end-to-end DAST pipeline for Single Page Applications (SPAs). Playwright scripts drive authenticated user sessions and route browser traffic through an OWASP ZAP proxy for automated crawling, vulnerability scanning, and report generation — wired directly into CI/CD.
-*Tags: `Playwright` `OWASP ZAP` `GitHub Actions` `CI/CD`*
+*Playwright | OWASP ZAP | GitHub Actions*
+*   Built an automated DAST workflow for a Single Page Application (OWASP Juice Shop) wired into a CI/CD pipeline.
+*   Automated authenticated browser sessions and traffic capture through an OWASP ZAP proxy.
+*   Implemented automated crawling, vulnerability scanning, and report generation.
 
-### 🔹 [Security Fuzzer & Automation Tools](https://github.com)
-Custom Python scripts developed for automated parameter fuzzing, IDOR detection, HTTP response analysis for authorization bypasses, and JWT testing / auth-mechanism verification.
-*Tags: `Python` `Burp Suite API` `Automation`*
+### 🔹 [Automated Vulnerability Reporting Tool](https://github.com)
+*Python | CVSS*
+*   Built a Python tool that generates structured vulnerability reports from scan findings.
+*   Automated CVSS scoring and drafting of remediation recommendations (self-built report/recommend/track loop).
 
-### 🔹 [React Component Security Analyzer](https://github.com) *(Replace with direct link if public)*
-AST-based static analysis tool (SAST) that scans React components for insecure configurations, missing validation, and client-side XSS risks.
-*Tags: `React` `AST` `Static Analysis` `Code Review`*
+### 🔹 [Security Fuzzer & Automation Tools](https://github.com/web-pentest-notes/tree/main/scripts)
+*Python | Burp Suite*
+*   Developed custom Python scripts for automated parameter fuzzing and IDOR testing.
+*   Built tooling to analyze HTTP responses, flag authorization issues, and perform JWT/auth-mechanism verification.
 
-### 🔹 [Web Pentest Notes & Reports](https://github.com/web-pentest-notes)
-My structured application security knowledge base containing vulnerability research, custom payloads, and detailed technical writeups from real-world assessments and premium labs.
-*Tags: `API Security` `OWASP Top 10` `Writeups`*
+### 🔹 [React Component Security Analyzer](https://github.com)
+*React | Static Analysis (AST)*
+*   Built an AST-based static analysis tool (SAST) to review React components for security defects.
+*   Automated the detection of insecure configurations, missing validation, and risky client-side patterns.
+
+---
+
+## 🎓 Education & Certifications
+*   **eJPT** (eLearnSecurity Junior Penetration Tester) — *In progress*
+*   **Security+ Engineer Certification** — Advanced Security Engineering Training Program *(Brunovski IT Education Center)*
+*   **TryHackMe** — Continuous hands-on labs in Web Security, Code Analysis, and Infrastructure Security
+*   **OWASP WSTG** — Deep self-study, actively used to map findings to a structured testing checklist
 
 ---
 
