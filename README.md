@@ -20,11 +20,11 @@ My practical experience with Secure SDLC, Secure Code Review, and basic Threat M
 
 | Category | Technologies, Tools & Methodologies |
 | :--- | :--- |
-| ** Application Security** | `OWASP Top 10` • `SAST/DAST/SCA fundamentals` • `Secure SDLC` • `Vulnerability Assessment & Prioritization` • `Secure Code Review` • `Threat Modeling basics` • `API Security` |
-| ** Security Tools** | `Burp Suite` • `OWASP ZAP` • `Postman` • `Playwright` • `Nmap` • `ffuf` • `gobuster` |
-| ** Vulnerability Intelligence** | `CVSS scoring` • `CVE/NVD` • `OWASP feeds` • `Remediation recommendation reporting` |
-| ** Development & Automation** | `Python` • `JavaScript` • `TypeScript` • `React` • `REST API` • `Bash` • `Git` • `CI/CD (GitHub Actions)` |
-| ** Infrastructure (Basic)** | `Active Directory security concepts (introductory level)` |
+| **Application Security** | `OWASP Top 10` • `SAST/DAST/SCA fundamentals` • `Secure SDLC` • `Vulnerability Assessment & Prioritization` • `Secure Code Review` • `Threat Modeling basics` • `API Security` |
+| **Security Tools** | `Burp Suite` • `OWASP ZAP` • `Postman` • `Playwright` • `Nmap` • `ffuf` • `gobuster` |
+| **Vulnerability Intelligence** | `CVSS scoring` • `CVE/NVD` • `OWASP feeds` • `Remediation recommendation reporting` |
+| **Development & Automation** | `Python` • `JavaScript` • `TypeScript` • `React` • `REST API` • `Bash` • `Git` • `CI/CD (GitHub Actions)` |
+| **Infrastructure (Basic)** | `Active Directory security concepts (introductory level)` |
 
 ---
 
