@@ -25,9 +25,9 @@ Deep understanding of modern web architecture (React/TypeScript, REST APIs, micr
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **🔒 Security & Testing** | ![Burp Suite](https://shields.io) ![OWASP ZAP](https://shields.io) `WSTG` `PTES` `Threat Modeling` `CVSS` |
-| **💻 Dev & Automation** | ![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Bash](https://shields.io) |
-| **🌐 Frameworks & CI/CD** | ![React](https://shields.io) ![Node.js](https://shields.io) ![GitHub Actions](https://shields.io) |
+| **🔒 Security & Testing** | `Burp Suite` • `OWASP ZAP` • `WSTG` • `PTES` • `Threat Modeling` • `CVSS` |
+| **💻 Dev & Automation** | `Python` • `TypeScript` • `JavaScript` • `Bash` • `Git` |
+| **🌐 Frameworks & CI/CD** | `React` • `Node.js` • `GitHub Actions (CI/CD)` |
 
 ---
 
